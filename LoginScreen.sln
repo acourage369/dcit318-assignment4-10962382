@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginScreen", "LoginScreen\LoginScreen.csproj", "{F3540D26-A7AE-4326-8CDC-3045B6B48672}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressBookApplication", "AddressBookApplication\AddressBookApplication.csproj", "{AF00ACEF-EC5E-436C-BBC3-652E6D876F72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F3540D26-A7AE-4326-8CDC-3045B6B48672}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3540D26-A7AE-4326-8CDC-3045B6B48672}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3540D26-A7AE-4326-8CDC-3045B6B48672}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF00ACEF-EC5E-436C-BBC3-652E6D876F72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF00ACEF-EC5E-436C-BBC3-652E6D876F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF00ACEF-EC5E-436C-BBC3-652E6D876F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF00ACEF-EC5E-436C-BBC3-652E6D876F72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
