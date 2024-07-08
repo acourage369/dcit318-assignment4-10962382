@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginScreen", "LoginScreen\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressBookApplication", "AddressBookApplication\AddressBookApplication.csproj", "{AF00ACEF-EC5E-436C-BBC3-652E6D876F72}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanvasDrawing", "CanvasDrawing\CanvasDrawing.csproj", "{074D23E8-6278-4E55-82D7-6646F55098B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AF00ACEF-EC5E-436C-BBC3-652E6D876F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF00ACEF-EC5E-436C-BBC3-652E6D876F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF00ACEF-EC5E-436C-BBC3-652E6D876F72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{074D23E8-6278-4E55-82D7-6646F55098B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074D23E8-6278-4E55-82D7-6646F55098B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074D23E8-6278-4E55-82D7-6646F55098B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074D23E8-6278-4E55-82D7-6646F55098B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
